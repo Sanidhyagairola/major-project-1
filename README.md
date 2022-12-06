@@ -1,2 +1,1 @@
-# major-project-1
-stock prediction web application
+# https://share.streamlit.io/nprashanth1712/stock-prediction/main/stock5.py
